@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "Building a Node.js App with TypeScript and Webpack",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "typescript",
+    "webpack",
+    "express"
+  ],
+  "author": "Stephen King",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^2.5.3",
+    "webpack": "^3.6.0"
+  }
+}
